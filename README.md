@@ -1,2 +1,2 @@
 # remindme-db
-Databse Docker image for RemindMe!
+Database Docker image for RemindMe!
